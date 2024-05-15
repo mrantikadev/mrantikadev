@@ -1,6 +1,6 @@
 - Hi, I’m @mrantikadev
 - I’m interested in video games, music and football
-- I’m currently learning JavaScript & Godot with GDScript
+- I’m currently learning  ASP.NET Core & Godot with GDScript
 <!--- 💞️ I’m looking to collaborate on ... --->
 - My frontendmentor profile: https://www.frontendmentor.io/profile/mrantikadev
 - How to reach me rasitantika@outlook.com or rasitantika@gmail.com
